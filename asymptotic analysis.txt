@@ -1,0 +1,26 @@
+For BinarySearch:
+
+the total runtime big-theta(N) for addAll = N
+
+the total runtime big-theta(N) for allmatches = theta(N) -> worst case
+
+
+For LinearSearch:
+
+the total runtime big-theta(N) for addAll= constant
+
+the total runtime big-theta(N) for allmatches = theta(N) 
+
+
+For ternarysearchtree
+
+the total runtime big-theta(N) for addAll= N
+
+the total runtime big-theta(N) for allmatches = theta(N) -> worst case
+
+
+For TreeSet:
+
+the total runtime big-theta(N) = log(N) as it is store in a balanced binary tree
+
+the total runtime big-theta(N) for allmatches = theta(N) -> worst case

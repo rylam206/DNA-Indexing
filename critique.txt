@@ -1,0 +1,168 @@
+http://dnapolicyinitiative.org/resources/dna-databases-and-human-rights/#Expansion_in_uses:_familial_searching,_research_uses_and_counter-terrorism
+"DNA Databases and Human Rights"
+NOTES:
+-partial dna matches can lead investigators to find family members of a dna sample if they are in a dna database.
+-"If used routinely, familial searching could lead to significant abuses by allowing investigators or anyone who infiltrates 
+    the database to track down the relatives of political dissenters or to pursue enemies or identify paternity and 
+    non-paternity for personal, commercial or criminal reasons."
+-DNA information of individuals may be indefinitely stored without consent, or only with consent to be used 
+    in police investigations
+-DNA databases collected for research require consent from the DNA carriers, but using police databases 
+    to conduct genetic research would be a breach of this ethical guideline
+-The UK can use their DNA database to track individuals regardless of whether or not they are suspected of a crime
+-The UK has proposed collecting DNA and fingerprints for any offence, like littering
+-There have been attempts to determine phenotypic traits like hair color and height to identify someone's DNA sample    
+    if they are not already in a DNA database
+-false matches between dna samples and database information can happen from laboratory error or by chance
+-the presence of dna at a crime scene could be misinterpreted
+-dna from a crime scene can become degraded or mixed with other dna, which would make it unreliable, but it could still
+    end up being used for criminal investigations and identification
+-in america and many other countries, ethnic minorities are disproportionately arrested amd prosecuted by law enforcement,
+    which could mean that the human rights concerns of dna databases would affect them moreso
+-increasing total dna database profiles for criminal investigation in england and wales did not lead to an increase
+    in criminal prosecution of open cases
+-storing dna data is costly
+-currently most police dna samples are taken without consent through mouth swabs of detained suspects to crimes
+
+How does the author’s lived experiences lead them to their point of view? 
+    the Forensic Genetic Policy Initiative (FGPI) works to influence the ethical standards used by dna databases to find a 
+    balance between effective law enforcement and protection of individual rights. FGPI collaborates with similar organizations
+    that monitor developments in dna data use in the US and the UK. A focus on western countries could lead to a narrow
+    view of the potential uses of genetic data, since most western countries operate under similar systems of governance. 
+    Observing how stored genetic information is used in non-western countries could provide valiable insights to how different
+    methods for dna storage and use can be beneficial or harmful.
+How do the distribution of benefits and harms affect different people and society?
+    collecting genetic data on individuals can be beneficial to law enforcement since it provides them a new tool to track and 
+    identify suspects of known crimes. partial dna matches to family members of subjects can lead law enforcement to identify
+    suspects, and the more genetic information is available, the more effective this method is. criminal prosecution in america
+    as well as many other countries targets ethnic minorities, and if more minorities have their genetic data stored by law 
+    enforcement, they will be more greatly affected by any harms brought about by abuses with dna databases. most dna samples
+    collected by police are done without consent when criminal suspects are brought in for interrogation or when people are 
+    arrested and booked.
+
+https://www.nature.com/articles/5201114
+Data storage and DNA banking for biomedical research: informed consent, confidentiality, quality issues, 
+    ownership, return of benefits. A professional perspective
+NOTES:
+-dna banks can be used to identify genetic diseases of individuals
+-several european countries have governing bodies that determine ethical guidelines for dna bank use
+-the ASHG says dna banks and labs should only accept dna samples at the request of healthcare professionals
+-many countries require written consent from dna sample subjects for research studies, but exceptions can be made
+    depending on the anonymity of the collected samples
+-consent to use dna samples may only be given for a specific research study, but this could be impractical since
+    dna samples are often useful for many different studies. many regulating bodies for dna banking accept consent 
+    to have dna stored long term for other research studies that could benefit from the genetic data
+-many bodies say anonymous samples can be stored for use in research beyond what the sample was originally collected    
+    and stored for
+-because so much research takes place in the private sector, dna banks could sell genetic data to private enterprises
+
+How does the author’s lived experiences lead them to their point of view? 
+    Published by the European Journal of Human Genetics, a journal that publishes research papers and reports on topics related
+    to human genetics. Their mission statement is to bridge the diverse viewpoints between different individuals and 
+    institutions on human genetics. the four contributing authors of this article are either faculty of various academic
+    institutions in canada and europe, in departments related to genetics or biomedical research.
+How do the distribution of benefits and harms affect different people and society?
+    requiring written consent from individuals to have their dna samples used in a particular study protects people from having
+    their genetic info used without the subject knowing. genetic samples can be "anonymized" to further provide security to
+    those who's dna is used in research, but this can also enable researchers to reuse or lend genetic data for different studies
+    without explicit consent to do so. 
+
+https://aeon.co/essays/social-genomics-can-combat-inequality-or-be-used-to-justify-it
+Social genomics can be used to combat inequality or be used to justify it
+NOTES:
+-Erik Parens, the author of this article, is a researcher at a bioethics research institute
+-he has left leaning political views
+-genetics have been used to draw conclusions on the intelligences of different ethnic groups. ex: the bell curve (1994)
+-these assumptions are used to justify inequalities faced by different people by saying that inequalities   
+    are the result of people's different genetics, rather than their material conditions
+-"left leaning" scientists consider using a "polygenic score" that estimates the effects of one's genetics on   
+    their phenotype. this could be used to create precision medicine tailoredto someone's genetics
+-past attempts to use polygenic scores to predict general intelligence have been unreliable due to 
+    frequent false negatives: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3498585/
+- Kathryn Paige Harden, new york times journalist, wrote in ‘Why Progressives Should Embrace the Genetics of Education" that
+    a polygenic score model could be used to custom tailor education to the genetics of individuals
+-this could lead to a new type of "separate but equal" institutions, where different ethnic groups receive different qualities
+    of education under the justification that it is most beneficial to society to operate this way
+-disparities in education level between different genetic groups could be used to justify the need for custom education,
+    but could also be used to invalidate the historically vast disparities in socioeconomic status between different    
+    groups, especially in america
+-how would education even be tailored to someone's genetics? how could a scientific method for finding an individual's ideal
+    mode of education be found and proven to work?
+
+How does the author’s lived experiences lead them to their point of view? 
+    Erik Parens is a researcher at a bioethics research institute who appears to have left-leaning political views.
+    He is American and is aware of dominating views on genetics in America during the 20th century. Many of these views
+    were right-leaning, including Richard Hermstein and Charles Murrays' "The Bell Curve" which has been used to defend
+    neoliberal policies in america. Parens views on political ideology seem confined to the american/western conflict between
+    "left" and "right" political views, while other countries not modeled after the west may have very different ideas of what
+    left and right leaning politics looks like.
+How do the distribution of benefits and harms affect different people and society?
+    genetic research could be used to provide "custom" education to different genetic groups who may benefit from different learning
+    environments. because there are no conclusive findings on if genetics plays a role in how genetics affects education,
+    this seems problematic, especially given america's history of dividing education among ethnic groups (separate but equal 
+    doctrine). Other groups have used genetics to determine how genes affect the material conditions of individuals or groups of
+    people, and used assumptions drawn from research study findings to justify the existence of material differences among different
+    people.
+
+https://www.propublica.org/article/where-traditional-dna-testing-fails-algorithms-take-over
+-Frank Thomas was charge for criminal possession of weapon and was sentenced to 15 years in jail
+-“probabilistic genotyping” software program, algorithm that calculate the likelihood of a particular person's DNA is in a mixture
+-Would not revel source code, so cannot determine if algorithm is bias or not
+
+How does the author’s lived experiences lead them to their point of view? 
+    Frank Thomas was found guilty of criminal possesion of a weapon, but he is appealing his conviction. Does this mean that the algorithm
+    is bias and can be inaccurate?
+How do the distribution of benefits and harms affect different people and society?
+    This algorithm is beneficial to police because it is able to identify suspects from DNA found at crime scenes that 
+    traditional DNA testing wouldnt be able to. This also gives prosecutors a powerful tool to gain evidence that would've been difficult
+    with traditional DNA testing. However, the algorithm may be bias and can target a particular person over another base on their background, 
+    race, culture, etc. There has been many cases where this algorith claimed to have identify the perpetrator of a crime and had led the perpetrator
+    to be found guilty. The problem with this is that the company refuse to reveal their source code. The algorithm might be inaccurate or even bias.
+
+https://www.nbcnews.com/news/us-news/police-were-cracking-cold-cases-dna-website-then-fine-print-n1070901
+How does the author’s lived experiences lead them to their point of view? 
+    Angie Dodge was raped and murdered in Idaho falls. A man confessed to the crime, but Dodge's mother was convinced that the man wasn't the killer.
+    So, law enforcements reopened the case and used GEDmatch in 2018 and found a potential suspect. After the collecting the potential suspect DNA, they 
+    found a match to the DNA at the crime scene.
+How do the distribution of benefits and harms affect different people and society?
+    Police used to use a consumer DNA database to identify suspects. The database helped police solved more than 50 rapes and homicides cases.
+    However, due to the public, the company providing the database had to change their terms of service to exclude law enforcement from searching
+    through their database. This caused solving cases much harder for law enforcements. Allowing law enforcements to search through the database can
+    help them catch the suspect a lot faster and also low the probablity of convicting an innocent person.
+
+https://jme.bmj.com/content/26/4/266
+assesses ethics of mandated genetic samples from a given population
+would increase efficacy of dna evidence in solving police cases
+violates consent of people and infringes on their freedom
+
+
+*********************
+*********************
+
+    DNA search algorithms can be powerful tools for law enforcement in solving criminal investigations. However, the ethical 
+concerns that arise from searching DNA databases have led to greater restrictions on their usage. 
+    One such ethical concern is that the use of search algorithms in DNA databases could hold biases against different groups 
+of people. The Forensic Genetic Policy Initiative (FGPI) states in their article titled "DNA Databases and Human Rights" that 
+in many countries such as the United States, police can forcibly obtain DNA samples from detained individuals to help
+solve criminal investigations. But in a country like the United States where the rate of police stops and incarceration 
+are heavily biased towards racial minorities, this means that there is a disproportionate presence of DNA
+samples from minorities in police databases. Although ideally, this wouldn't mean that search algorithms become biased towards
+certain groups, because search algorithms and DNA sample handling isn't perfect, mistakes and false positives do occur, and
+when they do they will be drawing from a skewed database and minorities could be more heavily affected by such errors. 
+    There are also private DNA databases that police can use for investigations. Jon Schuppe, a journalist for NBC described 
+what police can and cannot do with private databases. Consumers of DNA sampling services can choose whether or not to 
+consent to having their DNA used for criminal investigations. Investigators can only use samples that the consumers have 
+consented to giving, which has drastically reduced the efficacy of using these 
+databases. Although having more utilization of private
+databases could address the formerly mentioned concerns of bias in police databases, having greater access 
+to private databases pose a privacy 
+concern to consumers. 
+    Margarita Guillen, a professor in legal medicine has proposed in an article for BMJ Journals the
+possibility of a general genetic sampling of a population for law enforcement to use in investigations. While Professor
+Guillen states that the general sampling methods would make DNA forensics highly effective in solving cases, she asserts that
+this would
+violate the freedom of individuals. She also states that in many countries like the US, there are already precedents set
+for the restrictions of police in collecting biomedical information of non-suspects that would prohibit general dna sampling.
+
+    
+

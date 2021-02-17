@@ -1,0 +1,41 @@
+For BinarySearch:
+
+the total runtime big-theta(N) for addAll = Nlog(N)
+
+the total runtime big-theta(N) for allmatches = theta(1)
+
+
+For LinearSearch:
+
+the total runtime big-theta(N) for addAll= N
+
+the total runtime big-theta(N) for allmatches = theta(log(N))
+
+
+For ternarysearchtree
+
+the total runtime big-theta(N) for addAll= N
+
+the total runtime big-theta(N) for allmatches = log3(N)
+
+
+For TreeSet:
+
+the total runtime big-theta(N) = theta(N)
+
+the total runtime big-theta(N) for allmatches = theta(1)
+
+Describe how the assumptions in CitiesInputSizeExperiments might explain any disagreements between the asymptotic analysis and experimental analysis.
+    In CitiesInputSizeExperiments, we are assuming that the prefix "Sea" is the average runtime while in asymptotic analysis we are writing the worse
+    runtime for each implementations. We are also assuming that the maximum data is 100000. If we test more data, we may get different runtime result 
+    in the experimental analysis. Besides we set the trail to be 1000, the code will stop running when it got 1000 data. So the curve may become flat 
+    when we have more cases to test. This means the runtime may change from N to log(N)
+
+For allMatches, describe how the default prefix affects the experimental analysis.
+    The prefix "Sea" could be the best case runtime for all the implementations which is why we see a faster runtime in those implementations.
+    For example, in BinarySearch the experimental runtime for allMatches was constant time while in asymptotic analysis it was theta(N). However, if 
+    there was a different prefix that caused the binarysearch to run to the end, it would produce a worst case runtime similar to what we found in our
+    asymptotic analysis. 
+
+
+    
